@@ -41,3 +41,9 @@ git push -u origin <branch>
 
 git push
 --> Push changes
+
+git config --global --unset user.name
+-->unset your Git username
+
+git config --global --unset user.email
+-->unset your Git Email
