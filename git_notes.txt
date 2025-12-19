@@ -125,4 +125,4 @@ pachi action pr javanu
 
 action pr je aavyu hoy te ni uper click karvanu
 
-wait kari 1 link aavse teni pr click kari website run thase
+wait kari 1 link aavse teni pr click kari website run thase 
